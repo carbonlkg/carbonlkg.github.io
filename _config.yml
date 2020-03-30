@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Saravanan Shanmugam"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/sarav-profile.jpg" # path of avatar image e.g. "/assets/images/sarav-profile.jpg"
   bio              : "Data Analytics Consultant in the Energy Industry"
   location         : "Berlin, Germany"
   email            : "carbonlkg@gmail.com"
@@ -113,7 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/carbonlkg"
+    - label: "LinkedIn"  
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/s7sara"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
